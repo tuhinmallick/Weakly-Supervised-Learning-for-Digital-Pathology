@@ -1,1 +1,1 @@
-# Seminar for Digital pathology and Deep Learning
+# Weakly supervised learning for Digital Pathology 

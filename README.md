@@ -24,3 +24,6 @@ https://github.com/thtang/CheXNet-with-localization
 
 The first clinical-level AI system available source code
 https://github.com/TankZhouFirst/clinical-grade-computational-pathology-using-weakly-supervised-deep-learning-on-whole-slide-images
+
+WACV2021 - A Weakly Supervised Consistency-based Learning Method for COVID-19 Segmentation in CT Images
+https://github.com/IssamLaradji/covid19_weak_supervision

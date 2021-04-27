@@ -27,3 +27,6 @@ https://github.com/TankZhouFirst/clinical-grade-computational-pathology-using-we
 
 WACV2021 - A Weakly Supervised Consistency-based Learning Method for COVID-19 Segmentation in CT Images
 https://github.com/IssamLaradji/covid19_weak_supervision
+
+Weakly-supervised Deep Learning for Brain Disease Prognosis using MRI and Incomplete Clinical Scores
+https://github.com/mxliu/wiseDNN

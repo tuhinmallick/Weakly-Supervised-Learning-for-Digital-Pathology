@@ -18,3 +18,6 @@ https://arxiv.org/abs/2009.11988
 https://www.nature.com/articles/s41598-020-66333-x
 
 https://dl.acm.org/doi/10.1007/978-3-030-32239-7_68
+
+Weakly Supervised Learning for Findings Detection in Medical Images
+https://github.com/thtang/CheXNet-with-localization

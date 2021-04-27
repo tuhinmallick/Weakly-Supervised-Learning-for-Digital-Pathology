@@ -21,3 +21,6 @@ https://dl.acm.org/doi/10.1007/978-3-030-32239-7_68
 
 Weakly Supervised Learning for Findings Detection in Medical Images
 https://github.com/thtang/CheXNet-with-localization
+
+The first clinical-level AI system available source code
+https://github.com/TankZhouFirst/clinical-grade-computational-pathology-using-weakly-supervised-deep-learning-on-whole-slide-images

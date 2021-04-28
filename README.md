@@ -37,7 +37,7 @@ https://github.com/windweller/ClinGenML
 Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks 
 https://paperswithcode.com/paper/whole-slide-images-based-cancer-survival
 
-
-
+Weakly supervised multiple instance learning histopathological tumor segmentation
+https://paperswithcode.com/paper/weakly-supervised-multiple-instance-learning
 
 

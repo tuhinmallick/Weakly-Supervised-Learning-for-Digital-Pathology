@@ -34,8 +34,8 @@ https://github.com/mxliu/wiseDNN
 A weak-supervised learning based biomedical paper classification algorithm
 https://github.com/windweller/ClinGenML
 
-
-
+Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks 
+https://paperswithcode.com/paper/whole-slide-images-based-cancer-survival
 
 
 

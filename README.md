@@ -30,3 +30,14 @@ https://github.com/IssamLaradji/covid19_weak_supervision
 
 Weakly-supervised Deep Learning for Brain Disease Prognosis using MRI and Incomplete Clinical Scores
 https://github.com/mxliu/wiseDNN
+
+A weak-supervised learning based biomedical paper classification algorithm
+https://github.com/windweller/ClinGenML
+
+
+
+
+
+
+
+

@@ -11,6 +11,8 @@ https://www.nature.com/articles/s41591-019-0508-1
 A Weakly Supervised Consistency-based Learning Method for COVID-19 Segmentation in CT Images
 https://arxiv.org/abs/2007.02180
 
+
+
 https://paperswithcode.com/paper/deep-learning-based-detection-for-covid-19#code
 
 https://arxiv.org/abs/2009.11988

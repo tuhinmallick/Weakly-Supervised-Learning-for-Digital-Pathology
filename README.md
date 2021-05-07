@@ -51,3 +51,4 @@ https://arxiv.org/pdf/1911.12425
 
 Attention Networks for Weakly Supervised Object Localization
 http://www.bmva.org/bmvc/2016/papers/paper052/index.html
+

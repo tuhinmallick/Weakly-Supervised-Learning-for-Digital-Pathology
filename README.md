@@ -42,4 +42,6 @@ https://paperswithcode.com/paper/whole-slide-images-based-cancer-survival
 Weakly supervised multiple instance learning histopathological tumor segmentation
 https://paperswithcode.com/paper/weakly-supervised-multiple-instance-learning
 
+CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation
+https://arxiv.org/abs/1908.10555
 

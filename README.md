@@ -45,3 +45,5 @@ https://paperswithcode.com/paper/weakly-supervised-multiple-instance-learning
 CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation
 https://arxiv.org/abs/1908.10555
 
+
+https://arxiv.org/pdf/1911.12425

@@ -54,3 +54,5 @@ http://www.bmva.org/bmvc/2016/papers/paper052/index.ht
 
 
 https://hbilen.github.io/wsl-eccv20.github.io/
+
+https://towardsdatascience.com/from-patches-to-slides-how-to-train-deep-learning-models-on-gigapixel-images-with-weak-supervision-d2cd2081cfd7

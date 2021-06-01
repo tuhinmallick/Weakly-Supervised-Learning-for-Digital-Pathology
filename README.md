@@ -58,3 +58,5 @@ https://hbilen.github.io/wsl-eccv20.github.io/
 https://towardsdatascience.com/from-patches-to-slides-how-to-train-deep-learning-models-on-gigapixel-images-with-weak-supervision-d2cd2081cfd7
 
 https://github.com/peterrosetu/clinical-grade-computational-pathology-using-weakly-supervised-deep-learning-on-whole-slide-images
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiF6JWV1_bwAhXShv0HHVJ9BtoQFnoECBoQAA&url=https%3A%2F%2Flouris.cn%2Fassets%2Ffiles%2FClinical-grade_computational_pathology_using_weakly_supervised_deep_learning_on_whole_slide_images.pdf&usg=AOvVaw0XE_h_IfXPMPAjrrPOSb2C

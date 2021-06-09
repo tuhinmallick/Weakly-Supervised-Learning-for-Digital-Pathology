@@ -4,7 +4,9 @@
 4. Do you all cook together?
 5. Do you all sit together and watch TV?
 
-Hi, I am Tuhin. I have just started my Master in  Winter Semester 2020. I have also got two HIWI jobs at the University ( at Machine learning and Data Analytics lab and FAPS as a Research Assistant ). As a result, the location is perfect for me.
+Hi, I am Tuhin. I have just started my Master in  Winter Semester 2020. I work as a werkstudent at the University in Artificial Intelligence and robotics. It's neR Kaufland Rothelheimbad so the location is perfect. 
+
+
 
 I like spending my spare time with my friends, a good thriller film or go for a bike ride in Meilwaald . I am always up for a barbecue evening or a glass of wine on the couch with action movies. Since it's near Bohlenplatz, that would be a bonus for me as I mostly spend my time there either playing or teaching Table tennis. You wrote in the advertisement that you are looking for more than just someone to help pay the rent, so we can do some things together once in a while, right? Nothing stands in the way of a collective binge watching and film evenings  :-) 
 

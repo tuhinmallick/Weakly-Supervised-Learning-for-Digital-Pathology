@@ -4,6 +4,11 @@
 4. Do you all cook together?
 5. Do you all sit together and watch TV?
 
+Licor Beirão -Portugese
+Soju - South Korean
+Apperol - Italian
+Sangria - Spanish
+
 Hi, I am Tuhin. I have just started my Master in  Winter Semester 2020. I work as a werkstudent at the University in Artificial Intelligence and robotics. It's neR Kaufland Rothelheimbad so the location is perfect. 
 
 

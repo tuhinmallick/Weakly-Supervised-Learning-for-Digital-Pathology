@@ -1,6 +1,8 @@
 # Weakly supervised learning for Digital Pathology 
 
 
+
+I will create a readme
 Goal of talk (example): Introduce the concept of weakly supervised learning (in contrast to fully supervised learning) – what are the benefits and challenges? Showcase one or more examples for weakly supervised learning in Digital Pathology. 
 
 • Campanella et al.: Clinical-grade computational pathology using weakly supervised deep learning on whole slide images
